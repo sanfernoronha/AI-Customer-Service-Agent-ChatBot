@@ -1,4 +1,4 @@
-# AI powered expert system demo
+# AI powered Customer Support Chatbot
 
 ## Requirements
 - Java 17+
